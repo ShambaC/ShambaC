@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I dance naked when I am alone.**
 
+## Skill set
+PIRACY
 
 
 <h3 align="left">Languages and Tools:</h3>
