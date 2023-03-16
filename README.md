@@ -24,3 +24,4 @@ PIRACY
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shambac&show_icons=true&locale=en" alt="shambac" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shambac&" alt="shambac" /></p>
