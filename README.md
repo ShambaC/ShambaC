@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm ShambaC</h1>
 <h3 align="center">An Indian who made coding tutorials on YouTube.</h3>
 
-- 🔭 I’m currently working on [Handwritten text recognition](https://github.com/ShambaC/Project-SEM-6)
+- 🔭 I’m currently working on [Handwritten text recognition](https://github.com/ShambaC/Handwritten-Text-Recognition)
 
 - 🌱 I’m currently learning **Neural Networks**
 
