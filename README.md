@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShambaC](https://github.com/ShambaC)
 
-- 💬 Ask me about **your mom**
+- 💬 Ask me about **ways to get things for free**
 
 - 📫 How to reach me **ShambaC#3440**
 
-- ⚡ Fun fact **I dance naked when I am alone.**
+- ⚡ Fun fact **I think the best when I am pooping**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
