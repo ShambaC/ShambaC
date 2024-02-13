@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm ShambaC</h1>
 <h3 align="center">An Indian who made coding tutorials on YouTube.</h3>
 
-- 🔭 I’m currently working on [Handwritten text recognition](https://github.com/ShambaC/Handwritten-Text-Recognition)
+- 🔭 I’m currently working on [Java Projects for University](https://github.com/ShambaC/CU-MSC-OOAD-SEM1)
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Java Applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShambaC](https://github.com/ShambaC)
 
