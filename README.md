@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm ShambaC</h1>
 <h3 align="center">An Indian who made coding tutorials on YouTube.</h3>
 
-- 🔭 I’m currently working on [Java Projects for University](https://github.com/ShambaC/CU-MSC-OOAD-SEM1)
+- 🔭 I’m currently working on a [2D game engine](https://github.com/ShambaC/AdaEngine)
 
 - 🌱 I’m currently learning **Java Applications**
 
