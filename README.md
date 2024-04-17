@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [2D game engine](https://github.com/ShambaC/AdaEngine)
 
-- 🌱 I’m currently learning **Java Applications**
+- 🌱 I’m currently learning **Java Applications** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShambaC](https://github.com/ShambaC)
 
