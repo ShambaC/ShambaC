@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm ShambaC</h1>
 <h3 align="center">An Indian who made coding tutorials on YouTube.</h3>
 
-- 🔭 I’m currently working on a [2D game engine](https://github.com/ShambaC/AdaEngine)
+- 🔭 I’m currently working on a [Tensorflow Killer](https://github.com/ShambaC/shamboflow)
 
-- 🌱 I’m currently learning **Java Applications** 
+- 🌱 I’m currently learning **Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShambaC](https://github.com/ShambaC)
 
