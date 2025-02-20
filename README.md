@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm ShambaC</h1>
 <h3 align="center">An Indian who made coding tutorials on YouTube.</h3>
 
-- 🔭 I’m currently working on a [Tensorflow Killer](https://github.com/ShambaC/shamboflow)
+- 🔭 I’m currently working on a [SAR Image Colorisation](https://github.com/ShambaC/SAR-Image-Colorisation)
 
 - 🌱 I’m currently learning **Machine Learning** 
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/asssgroup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asss group" height="30" width="40" /></a>
 <a href="https://discord.gg/y6TP5WC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="y6TP5WC" height="30" width="40" /></a>
 </p>
 
