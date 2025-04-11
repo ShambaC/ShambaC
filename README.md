@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm ShambaC</h1>
 <h3 align="center">An Indian who made coding tutorials on YouTube.</h3>
 
-- 🔭 I’m currently working on a [SAR Image Colorisation](https://github.com/ShambaC/SAR-Image-Colorisation)
+- 🔭 I’m currently working on [SAR Image Colorisation](https://github.com/ShambaC/SAR-Image-Colorisation)
 
 - 🌱 I’m currently learning **Machine Learning** 
 
