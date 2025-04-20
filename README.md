@@ -16,6 +16,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/y6TP5WC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="y6TP5WC" height="30" width="40" /></a>
+<a
+     href="https://orcid.org/0009-0006-9727-5730"
+     rel="me noopener noreferrer">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        alt="ORCID iD icon"
+        align="center"
+        height="30" width="40"
+       />
+</a>
 </p>
 
 ## Skill set
