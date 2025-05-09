@@ -23,7 +23,7 @@
         src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
         alt="ORCID iD icon"
         align="center"
-        height="30" width="40"
+        height="30" width="30"
        />
 </a>
 </p>
