@@ -47,5 +47,5 @@ PIRACY
 ## Pinned Repos
 [![Readme Card](https://github-readme-stats-blue-alpha-61.vercel.app/api/pin/?username=ShambaC&repo=CircuitPython_MiniEthers&theme=dracula)](https://github.com/ShambaC/CircuitPython_MiniEthers)
 [![Readme Card](https://github-readme-stats-blue-alpha-61.vercel.app/api/pin/?username=ShambaC&repo=SAR-Image-Colorisation&theme=dracula)](https://github.com/ShambaC/SAR-Image-Colorisation)
-
+[![Readme Card](https://github-readme-stats-blue-alpha-61.vercel.app/api/pin/?username=DeForge-Labs&repo=status-one&theme=dracula)](https://github.com/DeForge-Labs/status-one)
 
